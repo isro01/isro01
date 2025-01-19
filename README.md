@@ -3,7 +3,7 @@
 I'm a Masters student ([MRSD](https://www.ri.cmu.edu/education/masters-programs/masters-robotics-and-autonomous-systems/)) at the Robotics Institute of Carnegie Mellon University, and I'm an aspiring robotist. With prior background in perception and controls, I'm keen on developing (and learning) robots that can accomplish tasks which are challenging for humans. 
 
 <!-- ### Currently I'm working on -->
-[LinkedIn](https://www.linkedin.com/in/ishir-gupta/) | [Website](https://isro01.github.io/)  | [Instagram](https://www.instagram.com/ishir.roongta/)
+[LinkedIn](https://www.linkedin.com/in/ishir-roongta/?profileId=ACoAACHPGrcBeys3y1sbHBIY0n9PJOSwYRuylUI) | [Website](https://isro01.github.io/)  | [Instagram](https://www.instagram.com/ishir.roongta/)
 
 
 ### Some projects I've worked on:
