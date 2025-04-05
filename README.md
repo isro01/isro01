@@ -16,10 +16,12 @@ This is how you dropdown.
 
 <!-- Add links too -->
 [Wildfire Drone](https://mrsdprojects.ri.cmu.edu/2024teamb/) :
-As part of a 5 member team, we developed an autonomous aerial system capable of GPS denied navigation (simulating under canopy motion), obstacle avoidance (avoiding tree trunks), and mapping fire hotspots in an area (simulating wildfire hotspots). Live demos linked [Spring Sem](https://www.youtube.com/watch?v=IAE71FNCuks) and [Fall Sem]().
+GPS Denied navigation | FSM-based mission | Fire localization and mapping | Custom built platform | GCS communication
+
+[F1Tenth Racing](https://github.com/isro01/f1tenth_labs) : NVIDIA Jetson | Reactive planners | Graph-based methods | SLAMtoolbox | MPC | End-to-end Model
 
 [Franka-Stein](https://drive.google.com/file/d/17YVXuGEJ2rgmDS1DY1Mh6kl8ccbDTyVC/view?usp=sharing&usp=embed_facebook) :
-As part of 3 member course project, we deveolped software stack for erasing whiteboard marking autonomously with a robot arm. Hardware used was a FRANKA arm and Intel RealSense D435i. Demo video can be found [here](https://www.youtube.com/watch?v=gNvjeiw5U4U&list=LL&index=2).
+FRANKA Robot Arm | Trajectory generation and smoothing | Control | MuJoCo | Demo video can be found [here](https://www.youtube.com/watch?v=gNvjeiw5U4U&list=LL&index=2).
 
 
 <!-- #### Context Aware Grasping
@@ -27,10 +29,10 @@ This was a exploratory course project in an attempt to get a contextually aware 
 
 
 [UAV guided UGV Navigation](https://github.com/AerialRobotics-IITK/inter_iit_uav_guided_ugv) :
-Simulation challenge part of the 10th Inter IIT Tech Meet, where the problem statement was to map out a trajectory on a mountainous road and guide a UGV on the snowy road using an overhead UAV.
-
+Depth-based segmentation | Pure Pursuit Control | Simulation @ Gazebo
+ 
 [Vision based Obstacle Avoidance for UAV](https://github.com/AerialRobotics-IITK/inter_iit_dgre_voad) :
-Simulation Challenge part of the Inter-IIT Tech Meet which happens annually. The problem statement was to autonomously explore a maze and land on a aruco platform upon completion.
+Exploration in unknown maze | Voxel based grid | A* search | Aruco marker landing
 
 <!-- #### [IARC] -->
 
